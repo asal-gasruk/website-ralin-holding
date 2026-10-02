@@ -94,6 +94,11 @@
         "title": "Growing together",
         "body": "Tumbuh bersama orang-orang, mitra, dan komunitas di sepanjang perjalanan."
       }
+    },
+    "team": {
+      "eyebrow": "Tim kami",
+      "title": "Orang-orang di balik brand kami.",
+      "body": "Kenali tim PT Rasa Kuliner Indocipta — membangun brand, menciptakan pengalaman, dan tumbuh bersama."
     }
   },
   "brandsPage": {
@@ -173,7 +178,8 @@
       "sendAnother": "Kirim pesan lain"
     },
     "office": "Kantor pusat",
-    "openMaps": "Buka di Google Maps"
+    "openMaps": "Buka di Google Maps",
+    "mapTitle": "Peta kantor pusat RALIN"
   },
   "footer": {
     "tagline": "This is just the beginning.",

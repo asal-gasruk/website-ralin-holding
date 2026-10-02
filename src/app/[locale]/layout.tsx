@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Inter, Instrument_Serif } from "next/font/google";
+import localFont from "next/font/local";
 import { notFound } from "next/navigation";
 import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { getTranslations, setRequestLocale } from "next-intl/server";
@@ -10,15 +10,14 @@ import { routing, type Locale } from "@/i18n/routing";
 import { alternates } from "@/lib/metadata";
 import "../globals.css";
 
-const instrumentSerif = Instrument_Serif({
-  subsets: ["latin"],
-  weight: "400",
-  style: ["normal", "italic"],
-  variable: "--font-instrument-serif",
+const hostGrotesk = localFont({
+  src: [
+    { path: "../fonts/HostGrotesk-VariableFont_wght.ttf", weight: "300 800", style: "normal" },
+    { path: "../fonts/HostGrotesk-Italic-VariableFont_wght.ttf", weight: "300 800", style: "italic" },
+  ],
+  variable: "--font-host-grotesk",
   display: "swap",
 });
-
-const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
 
 export const viewport: Viewport = { themeColor: "#0d0c0b" };
 
@@ -44,7 +43,7 @@ export default async function LocaleLayout({ children, params }: LayoutProps<"/[
   setRequestLocale(locale);
 
   return (
-    <html lang={locale} data-scroll-behavior="smooth" className={`${instrumentSerif.variable} ${inter.variable}`}>
+    <html lang={locale} data-scroll-behavior="smooth" className={hostGrotesk.variable}>
       <body className="flex min-h-svh flex-col">
         <NextIntlClientProvider>
           <Header />

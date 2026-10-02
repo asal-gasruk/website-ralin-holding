@@ -17,8 +17,8 @@
   --color-tedja-shell: #efe1d3;
   --color-sajikawani: #b4472c;
 
-  --font-display: var(--font-instrument-serif), ui-serif, Georgia, serif;
-  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-host-grotesk), ui-sans-serif, system-ui, sans-serif;
+  --font-sans: var(--font-host-grotesk), ui-sans-serif, system-ui, sans-serif;
 
   --animate-fade-up: fade-up 0.9s cubic-bezier(0.22, 1, 0.36, 1) both;
   --animate-page-in: page-in 0.6s cubic-bezier(0.22, 1, 0.36, 1) backwards;
@@ -66,7 +66,7 @@
   h1,
   h2,
   h3 {
-    @apply font-display font-normal text-balance;
+    @apply font-display font-medium tracking-[-0.025em] text-balance;
   }
 
   ::selection {

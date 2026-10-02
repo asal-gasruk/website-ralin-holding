@@ -94,6 +94,11 @@
         "title": "Growing together",
         "body": "Growing with our people, partners and communities along the journey."
       }
+    },
+    "team": {
+      "eyebrow": "The team",
+      "title": "The people behind the brands.",
+      "body": "Meet the team at PT Rasa Kuliner Indocipta — building brands, creating experiences and growing together."
     }
   },
   "brandsPage": {
@@ -173,7 +178,8 @@
       "sendAnother": "Send another message"
     },
     "office": "Head office",
-    "openMaps": "Open in Google Maps"
+    "openMaps": "Open in Google Maps",
+    "mapTitle": "Map of RALIN head office"
   },
   "footer": {
     "tagline": "This is just the beginning.",

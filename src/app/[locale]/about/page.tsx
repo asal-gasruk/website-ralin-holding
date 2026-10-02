@@ -2,6 +2,7 @@ import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { BrandShowcase } from "@/components/sections/BrandShowcase";
 import { PageHero } from "@/components/sections/PageHero";
+import { TeamGrid } from "@/components/sections/TeamGrid";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import type { Locale } from "@/i18n/routing";
 import { pageMetadata } from "@/lib/metadata";
@@ -40,6 +41,11 @@ export default async function AboutPage({ params }: PageProps<"/[locale]/about">
             </div>
           ))}
         </div>
+      </section>
+
+      <section className="container-site pt-24 sm:pt-32">
+        <SectionHeading eyebrow={t("team.eyebrow")} title={t("team.title")} body={t("team.body")} className="reveal mb-12" />
+        <TeamGrid />
       </section>
 
       <section className="container-site py-24 sm:py-32">
