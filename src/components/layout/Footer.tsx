@@ -2,7 +2,7 @@ import { useTranslations } from "next-intl";
 import { Icon } from "@/components/ui/Icon";
 import { Wordmark } from "@/components/ui/Wordmark";
 import { brands } from "@/content/brands";
-import { mainNav, socials } from "@/content/site";
+import { mainNav, office, socials } from "@/content/site";
 import { Link } from "@/i18n/navigation";
 
 const linkClass = "text-sm text-bone-muted transition-colors hover:text-bone";
@@ -53,6 +53,16 @@ export function Footer() {
                 </li>
               ))}
             </ul>
+          </div>
+          <div className="col-span-2 lg:col-span-1">
+            <h2 className="eyebrow font-sans text-gold">{t("office")}</h2>
+            <address className="mt-5 text-sm leading-relaxed text-bone-muted not-italic">
+              {office.lines.map((line) => (
+                <span key={line} className="block">
+                  {line}
+                </span>
+              ))}
+            </address>
           </div>
         </div>
       </div>

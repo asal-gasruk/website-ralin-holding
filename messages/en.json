@@ -171,14 +171,17 @@
       "successTitle": "Message sent",
       "successBody": "Thank you for reaching out. Our team will get back to you soon.",
       "sendAnother": "Send another message"
-    }
+    },
+    "office": "Head office",
+    "openMaps": "Open in Google Maps"
   },
   "footer": {
     "tagline": "This is just the beginning.",
     "explore": "Explore",
     "brands": "Brands",
     "rights": "© {year} PT Rasa Kuliner Indocipta (RALIN). All rights reserved.",
-    "privacy": "Privacy Policy"
+    "privacy": "Privacy Policy",
+    "office": "Head office"
   },
   "notFound": {
     "title": "This page wandered off.",

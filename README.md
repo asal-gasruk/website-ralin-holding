@@ -23,4 +23,4 @@ src/app/[locale]/          home, about, brands, brands/[slug], news, careers, co
 ## TODO sebelum rilis
 - Logo & brand guideline resmi RALIN (sekarang wordmark teks + palet netral sementara)
 - Aset Sajikawani (logo, foto, lokasi) — sajikawani.com belum aktif
-- Konten What's New resmi, alamat/email kantor, tujuan form kontak & CV, domain resmi
+- Konten What's New resmi, email & telepon kantor, tujuan form kontak & CV, domain resmi

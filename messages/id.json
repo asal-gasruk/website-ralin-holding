@@ -171,14 +171,17 @@
       "successTitle": "Pesan terkirim",
       "successBody": "Terima kasih sudah menghubungi kami. Tim kami akan segera membalas.",
       "sendAnother": "Kirim pesan lain"
-    }
+    },
+    "office": "Kantor pusat",
+    "openMaps": "Buka di Google Maps"
   },
   "footer": {
     "tagline": "This is just the beginning.",
     "explore": "Jelajahi",
     "brands": "Brand",
     "rights": "© {year} PT Rasa Kuliner Indocipta (RALIN). Hak cipta dilindungi.",
-    "privacy": "Kebijakan Privasi"
+    "privacy": "Kebijakan Privasi",
+    "office": "Kantor pusat"
   },
   "notFound": {
     "title": "Halaman ini tersesat.",
