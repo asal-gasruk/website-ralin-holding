@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "siteName": "RALIN",
+    "title": "RALIN — PT Rasa Kuliner Indocipta",
+    "description": "PT Rasa Kuliner Indocipta (RALIN) — membangun brand, menciptakan pengalaman, dan tumbuh bersama. Rumah Tedja Coffee dan Sajikawani.",
+    "about": "Tentang",
+    "brands": "Brand Kami",
+    "news": "Kabar Terbaru",
+    "careers": "Karier",
+    "contact": "Kontak",
+    "notFound": "Halaman tidak ditemukan"
+  },
+  "nav": {
+    "about": "Tentang",
+    "brands": "Brand",
+    "news": "Kabar Terbaru",
+    "careers": "Karier",
+    "contact": "Kontak",
+    "home": "Beranda RALIN",
+    "openMenu": "Buka menu",
+    "closeMenu": "Tutup menu",
+    "language": "Bahasa",
+    "allBrands": "Semua brand"
+  },
+  "common": {
+    "comingSoon": "Segera hadir",
+    "discover": "Jelajahi",
+    "visitWebsite": "Kunjungi situs",
+    "instagram": "Instagram",
+    "readMore": "Baca selengkapnya",
+    "backToBrands": "Semua brand",
+    "scroll": "Gulir",
+    "viewAll": "Lihat semua"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "PT Rasa Kuliner Indocipta",
+      "title": "Building brands. Creating experiences. Growing together.",
+      "body": "Kami percaya bisnis kuliner bukan hanya tentang apa yang tersaji di meja, tapi juga tentang ruang, pengalaman, dan koneksi yang tercipta di dalamnya.",
+      "cta": "Brand kami",
+      "secondary": "Tentang RALIN"
+    },
+    "intro": {
+      "eyebrow": "Tentang kami",
+      "title": "Berawal dari satu ide, lalu tumbuh menjadi lebih banyak kemungkinan.",
+      "body": "PT Rasa Kuliner Indocipta membangun brand makanan & minuman yang relevan, menciptakan pengalaman yang bermakna, dan tumbuh bersama setiap orang yang menjadi bagian dari perjalanan ini.",
+      "cta": "Cerita kami"
+    },
+    "stats": {
+      "brands": "Brand",
+      "locations": "Tedja di Bandung",
+      "city": "Kota asal"
+    },
+    "brands": {
+      "eyebrow": "Brand kami",
+      "title": "Keluarga RALIN.",
+      "cta": "Jelajahi brand"
+    },
+    "careers": {
+      "eyebrow": "Bergabung",
+      "title": "Tumbuh bersama RALIN.",
+      "body": "Kami selalu mencari orang yang peduli pada hospitality — barista, juru masak, host, dan tim di baliknya.",
+      "cta": "Lihat karier"
+    },
+    "news": {
+      "eyebrow": "Kabar terbaru",
+      "title": "Terbaru dari RALIN."
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Tentang RALIN",
+      "title": "This is just the beginning."
+    },
+    "story": {
+      "eyebrow": "Cerita kami",
+      "title": "Berawal dari satu ide, lalu tumbuh menjadi lebih banyak kemungkinan.",
+      "p1": "PT Rasa Kuliner Indocipta hadir dengan keyakinan bahwa bisnis kuliner bukan hanya tentang apa yang tersaji di meja, tapi juga tentang ruang, pengalaman, dan koneksi yang tercipta di dalamnya.",
+      "p2": "Salah satu langkahnya adalah Tedja Coffee — dan ini baru permulaan. Berikutnya adalah Sajikawani, restoran ayam goreng yang sedang dipersiapkan.",
+      "p3": "Kami akan terus berevolusi, membangun brand yang relevan, menciptakan pengalaman yang bermakna, dan tumbuh bersama setiap orang yang menjadi bagian dari perjalanan ini."
+    },
+    "values": {
+      "eyebrow": "Yang menggerakkan kami",
+      "title": "Building brands. Creating experiences. Growing together.",
+      "building": {
+        "title": "Building brands",
+        "body": "Membangun brand yang relevan, masing-masing dengan karakternya sendiri."
+      },
+      "creating": {
+        "title": "Creating experiences",
+        "body": "Ruang, layanan, dan momen yang bermakna bagi setiap tamu."
+      },
+      "growing": {
+        "title": "Growing together",
+        "body": "Tumbuh bersama orang-orang, mitra, dan komunitas di sepanjang perjalanan."
+      }
+    }
+  },
+  "brandsPage": {
+    "eyebrow": "Brand kami",
+    "title": "Keluarga RALIN.",
+    "body": "Setiap brand punya karakter sendiri — bersama-sama berbagi satu keyakinan pada makanan dan ruang yang baik.",
+    "open": "Sudah buka",
+    "comingSoon": "Segera hadir",
+    "about": "Tentang brand",
+    "facts": "Sekilas",
+    "gallery": "Galeri",
+    "others": "Brand lainnya",
+    "soonTitle": "Segera dibuka",
+    "soonBody": "Kami sedang menyiapkan sesuatu yang baru. Ikuti RALIN untuk pengumuman pembukaannya."
+  },
+  "newsPage": {
+    "eyebrow": "Kabar terbaru",
+    "title": "Cerita & kabar.",
+    "body": "Berita, pembukaan, dan momen dari seluruh brand RALIN."
+  },
+  "careersPage": {
+    "eyebrow": "Karier",
+    "title": "Bangun kariermu bersama kami.",
+    "body": "Bergabunglah dengan tim di balik brand-brand RALIN — dari bar dan dapur hingga kantor.",
+    "why": {
+      "eyebrow": "Kenapa RALIN",
+      "title": "Lebih dari sekadar pekerjaan.",
+      "learn": {
+        "title": "Belajar keahlian",
+        "body": "Pelatihan kopi, dapur, dan layanan."
+      },
+      "grow": {
+        "title": "Tumbuh bersama brand baru",
+        "body": "Pembukaan baru berarti peran dan jenjang baru."
+      },
+      "team": {
+        "title": "Tim yang peduli",
+        "body": "Kami saling menjaga, saat bertugas maupun tidak."
+      }
+    },
+    "areas": {
+      "eyebrow": "Tempat kamu bisa bekerja",
+      "title": "Tim kami.",
+      "outlet": "Crew outlet",
+      "outletBody": "Peran barista, dapur, dan layanan di Tedja Coffee dan Sajikawani.",
+      "management": "Manajemen toko",
+      "managementBody": "Supervisor dan store manager yang memimpin outlet kami.",
+      "office": "Kantor pusat",
+      "officeBody": "Tim operasional, keuangan, marketing, dan SDM."
+    },
+    "cta": "Kirim CV",
+    "ctaNote": "Ceritakan tentang dirimu dan posisi yang kamu minati."
+  },
+  "contactPage": {
+    "eyebrow": "Kontak",
+    "title": "Mari bicara.",
+    "body": "Kerja sama, franchise, media, atau pertanyaan umum — kami senang mendengarnya.",
+    "topics": {
+      "general": "Umum",
+      "partnership": "Kerja sama",
+      "franchise": "Franchise",
+      "media": "Media",
+      "careers": "Karier"
+    },
+    "form": {
+      "name": "Nama lengkap",
+      "email": "Email",
+      "company": "Perusahaan",
+      "topic": "Topik",
+      "message": "Pesan",
+      "choose": "Pilih salah satu",
+      "submit": "Kirim pesan",
+      "required": "Kolom ini wajib diisi.",
+      "invalidEmail": "Masukkan alamat email yang valid.",
+      "successTitle": "Pesan terkirim",
+      "successBody": "Terima kasih sudah menghubungi kami. Tim kami akan segera membalas.",
+      "sendAnother": "Kirim pesan lain"
+    }
+  },
+  "footer": {
+    "tagline": "This is just the beginning.",
+    "explore": "Jelajahi",
+    "brands": "Brand",
+    "rights": "© {year} PT Rasa Kuliner Indocipta (RALIN). Hak cipta dilindungi.",
+    "privacy": "Kebijakan Privasi"
+  },
+  "notFound": {
+    "title": "Halaman ini tersesat.",
+    "cta": "Kembali ke beranda"
+  }
+}

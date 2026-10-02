@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "siteName": "RALIN",
+    "title": "RALIN — PT Rasa Kuliner Indocipta",
+    "description": "PT Rasa Kuliner Indocipta (RALIN) — building brands, creating experiences and growing together. Home of Tedja Coffee and Sajikawani.",
+    "about": "About",
+    "brands": "Our Brands",
+    "news": "What's New",
+    "careers": "Careers",
+    "contact": "Contact",
+    "notFound": "Page not found"
+  },
+  "nav": {
+    "about": "About",
+    "brands": "Brands",
+    "news": "What's New",
+    "careers": "Careers",
+    "contact": "Contact",
+    "home": "RALIN home",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "allBrands": "All brands"
+  },
+  "common": {
+    "comingSoon": "Coming soon",
+    "discover": "Discover",
+    "visitWebsite": "Visit website",
+    "instagram": "Instagram",
+    "readMore": "Read more",
+    "backToBrands": "All brands",
+    "scroll": "Scroll",
+    "viewAll": "View all"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "PT Rasa Kuliner Indocipta",
+      "title": "Building brands. Creating experiences. Growing together.",
+      "body": "We believe the culinary business is not only about what is served on the table, but also about the space, the experience and the connections created around it.",
+      "cta": "Our brands",
+      "secondary": "About RALIN"
+    },
+    "intro": {
+      "eyebrow": "Who we are",
+      "title": "It started with one idea, then grew into more possibilities.",
+      "body": "PT Rasa Kuliner Indocipta builds food & beverage brands that are relevant, create meaningful experiences and grow together with everyone who is part of the journey.",
+      "cta": "Our story"
+    },
+    "stats": {
+      "brands": "Brands",
+      "locations": "Tedja spots in Bandung",
+      "city": "Home city"
+    },
+    "brands": {
+      "eyebrow": "Our brands",
+      "title": "The RALIN family.",
+      "cta": "Explore brand"
+    },
+    "careers": {
+      "eyebrow": "Join our team",
+      "title": "Grow with RALIN.",
+      "body": "We're always looking for people who care about hospitality — baristas, cooks, hosts and the teams behind them.",
+      "cta": "See careers"
+    },
+    "news": {
+      "eyebrow": "What's new",
+      "title": "Latest from RALIN."
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About RALIN",
+      "title": "This is just the beginning."
+    },
+    "story": {
+      "eyebrow": "Our story",
+      "title": "It started with one idea, then grew into more possibilities.",
+      "p1": "PT Rasa Kuliner Indocipta was founded on the belief that the culinary business is not only about what is served on the table, but also about the space, the experience and the connections created around it.",
+      "p2": "One of our first steps is Tedja Coffee — and this is only the beginning. Next is Sajikawani, a fried chicken restaurant currently in preparation.",
+      "p3": "We will keep evolving: building relevant brands, creating meaningful experiences and growing together with everyone who is part of this journey."
+    },
+    "values": {
+      "eyebrow": "What drives us",
+      "title": "Building brands. Creating experiences. Growing together.",
+      "building": {
+        "title": "Building brands",
+        "body": "Developing relevant brands, each with its own character."
+      },
+      "creating": {
+        "title": "Creating experiences",
+        "body": "Spaces, service and moments that are meaningful for every guest."
+      },
+      "growing": {
+        "title": "Growing together",
+        "body": "Growing with our people, partners and communities along the journey."
+      }
+    }
+  },
+  "brandsPage": {
+    "eyebrow": "Our brands",
+    "title": "The RALIN family.",
+    "body": "Each brand has its own character — together they share one belief in good food and good spaces.",
+    "open": "Now open",
+    "comingSoon": "Coming soon",
+    "about": "About the brand",
+    "facts": "At a glance",
+    "gallery": "Gallery",
+    "others": "Other brands",
+    "soonTitle": "Opening soon",
+    "soonBody": "We're preparing something new. Follow RALIN for the opening announcement."
+  },
+  "newsPage": {
+    "eyebrow": "What's new",
+    "title": "Stories & updates.",
+    "body": "News, openings and moments from across the RALIN brands."
+  },
+  "careersPage": {
+    "eyebrow": "Careers",
+    "title": "Build your career with us.",
+    "body": "Join the teams behind RALIN's brands — from the bar and the kitchen to the office.",
+    "why": {
+      "eyebrow": "Why RALIN",
+      "title": "More than a job.",
+      "learn": {
+        "title": "Learn the craft",
+        "body": "Training in coffee, kitchen and service."
+      },
+      "grow": {
+        "title": "Grow with new brands",
+        "body": "New openings mean new roles and paths."
+      },
+      "team": {
+        "title": "A team that cares",
+        "body": "We look after each other, on and off shift."
+      }
+    },
+    "areas": {
+      "eyebrow": "Where you could work",
+      "title": "Our teams.",
+      "outlet": "Outlet crew",
+      "outletBody": "Barista, kitchen and service roles at Tedja Coffee and Sajikawani.",
+      "management": "Store management",
+      "managementBody": "Supervisors and store managers who lead our outlets.",
+      "office": "Head office",
+      "officeBody": "Operations, finance, marketing and people teams."
+    },
+    "cta": "Send your CV",
+    "ctaNote": "Tell us about yourself and the role you're interested in."
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Let's talk.",
+    "body": "Partnerships, franchise, media or general questions — we'd love to hear from you.",
+    "topics": {
+      "general": "General",
+      "partnership": "Partnership",
+      "franchise": "Franchise",
+      "media": "Media",
+      "careers": "Careers"
+    },
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "company": "Company",
+      "topic": "Topic",
+      "message": "Message",
+      "choose": "Choose one",
+      "submit": "Send message",
+      "required": "This field is required.",
+      "invalidEmail": "Please enter a valid email address.",
+      "successTitle": "Message sent",
+      "successBody": "Thank you for reaching out. Our team will get back to you soon.",
+      "sendAnother": "Send another message"
+    }
+  },
+  "footer": {
+    "tagline": "This is just the beginning.",
+    "explore": "Explore",
+    "brands": "Brands",
+    "rights": "© {year} PT Rasa Kuliner Indocipta (RALIN). All rights reserved.",
+    "privacy": "Privacy Policy"
+  },
+  "notFound": {
+    "title": "This page wandered off.",
+    "cta": "Back to home"
+  }
+}
